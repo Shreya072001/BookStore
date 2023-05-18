@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3CBokStore%3E/static/css/main.1f59ae86.css",
+    "main.js": "/%3CBokStore%3E/static/js/main.5706cc16.js",
+    "index.html": "/%3CBokStore%3E/index.html",
+    "main.1f59ae86.css.map": "/%3CBokStore%3E/static/css/main.1f59ae86.css.map",
+    "main.5706cc16.js.map": "/%3CBokStore%3E/static/js/main.5706cc16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.5706cc16.js"
+  ]
+}
